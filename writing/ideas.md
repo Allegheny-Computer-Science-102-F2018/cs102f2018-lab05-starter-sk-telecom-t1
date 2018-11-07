@@ -2,8 +2,8 @@
 
 
 ## Date: 24 Oct 2018
-## Group Names:
-
+## Group Names: SK Telecom
+## Christian(Dubs), Jeremy, Mo
 
 
 
@@ -14,9 +14,7 @@ Please be sure that you justify why your idea is of interest to discrete structu
 
 
 ### Idea 1
-Cryptography
 1) Explain your idea for a class project.
-
 
 2) How is the idea connected to computer science?
 
@@ -65,24 +63,28 @@ Making bots is becoming more and more prevalent. as more and more  things on tod
 
 
 ### Idea 4
+Scientific Calculator - Dubs
 1) Explain your idea for a class project.
-
+ Scientific Calculator in Python with basic GUI using Mathematical functions, Function Declaration, and the following widget, Entry, Label, Button, Frame, and Menu.
 2) How is the idea connected to computer science?
-
+Coded in python, uses math functions
 3) What is the article's reference to support this idea? Note: Articles are no older than five years
-
+https://www.digitalocean.com/community/tutorials/how-to-make-a-simple-calculator-program-in-python-3
+https://medium.com/@adeyinkaadegbenro/project-build-a-python-gui-calculator-fc92bddb744d
 4) What is the central thesis to the article?
-
+These articles show the basic code creating python calculators and how to create a GUI
 5) How will this article support your idea?
-
+It gives examples of code and potential steps we could take
 
 ### Idea 5
+Python Advanced Conversation(Chatbox) Dubs
 1) Explain your idea for a class project.
-
+To automate user-inputted conversation in python and further advance it into a chatbox
 2) How is the idea connected to computer science?
-
+Take what we learned in lab3  and further develop it
 3) What is the article's reference to support this idea? Note: Articles are no older than five years
-
+https://apps.worldwritable.com/tutorials/chatbot/
 4) What is the central thesis to the article?
-
+To create a chatbox bot. introductory level chatbot techniques by writing software modeled after the dialectical capabilities
 5) How will this article support your idea?
+It gives a brief overview of how we would create the chatbox
