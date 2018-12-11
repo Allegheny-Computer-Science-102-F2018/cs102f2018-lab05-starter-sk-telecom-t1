@@ -315,7 +315,7 @@ editmenu.add_command(label = "Paste")
 
 helpmenu = Menu(menubar, tearoff = 0)
 menubar.add_cascade(label = "Help", menu =helpmenu)
-helpmenu.add_command(label = "View Help")
+helpmenu.add_command(label = "There is no Help")
 
 
 root.configure(menu=menubar)
