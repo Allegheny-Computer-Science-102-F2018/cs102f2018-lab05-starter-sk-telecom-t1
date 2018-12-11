@@ -27,13 +27,13 @@ The next part of the calculator was the scientific part. The decision originally
 
 The scientific calculator code of the program was similar to the standard with the exception being the placement on the on gui. All of the feature of the standard works, but there were problems with a few features of the scientific. For the scientific, the gold indicates a button that works. Prior to the presentation there were many more buttons not working, but over the weekend this was resolved. The only two buttons remain are the boolean and graph. That is because in order for them to worka a 2d plotting library called matlibplot needs to be implemented. The team had many errors trying to get this to work, but has solutions for future implementations in how to get these features to work.
 
-#Conclusion
+# Conclusion
 
 One of the challenges were when there was many errors in the code, it was hard to collaborate to fix the code due to conflicting schedules. The positive is that as said there is a lot of repetitive code and comments so it made easier to pick up where someone else left off and contribute to the writing. Another challenge included as stated above getting the graph and boolean buttons to work. The hardest challenge deemed getting the calculator to accept numbers count those numbers. That is because this had to be perfect as it would be used for the entire project. 
 
 The project was successful because it was well split among the team. Mohammad created the overview for the project and code. Jeremy entirely created the presentation and contributed to the documents. Christian worked on the hard-coding and writing. This project is also successful because of its potential. Almost all of the intended features work without any errors. Due to the nature of the code this can be adjusted to take more customizations. Having an understand TKinter is essential because it has deemed to be a solid framework to start learning how GUIs work. 
 
-#Future Work
+# Future Work
 
 With respect to the boolean and graph features of this project the team has come up with possible solutions on how this can  be successfully implemented. The first being embedding matplotlib in a TK canvas. This would essentially allow the program to accept graphs/plots in separate windows. The problem was adding this canvas to the already made size adjusted gui code. The project would have to be created with TK canvas originally, then all the other features/buttons can be added once again.
 
